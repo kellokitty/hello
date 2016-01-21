@@ -32,3 +32,4 @@ yuan:x:500:500:centos1th:/home/yuan:/bin/bash
 mysql:x:27:27:MySQL Server:/var/lib/mysql:/bin/bash
 zabbix:x:496:493:Zabbix Monitoring System:/var/lib/zabbix:/sbin/nologin
 zabbixsrv:x:495:493:Zabbix Monitoring System -- Proxy or server:/var/lib/zabbixsrv:/sbin/nologin
+hello
